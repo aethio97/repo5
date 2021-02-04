@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8AEA-F73B
+
+ Directory of C:\Users\ASUS\Desktop\Myprojects
+
+02/04/2021  02:44 PM    <DIR>          .
+02/04/2021  02:44 PM    <DIR>          ..
+02/04/2021  02:44 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  946,439,606,272 bytes free
